@@ -4,9 +4,9 @@ I buit this todo list to brush up on React. I followed the YouTube video "React 
 
 ## Built With
 
-React
-Axios
-JavaScript
+React<br />
+Axios<br />
+JavaScript<br />
 CSS
 
 ## Getting Started
@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 Link to software that is required to install the app (e.g. node).
 
 - [Node.js](https://nodejs.org/en/)
-- [Git]
+- [Git] (https://git-scm.com/)
 
 ### Installing
 
@@ -37,8 +37,6 @@ Include one or two screen shots of your project here (optional). Remove if unuse
 ## Acknowledgments
 
 Traversy Media
-React JS Crash Course
-https://www.youtube.com/watch?v=sBws8MSXN7A
+[React JS Crash Course] (https://www.youtube.com/watch?v=sBws8MSXN7A)
 
-This project was bootstrapped with [Create React App]
-https://github.com/facebook/create-react-app
+This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app)
